@@ -26,7 +26,7 @@
     <header>
         <div class="row">
             <div class="w-4">
-                <div id="logo"><img src="<?php echo $this->getThemePath();?>/img/logo.png" alt="Logo_Polo_360"/></div>                            
+                <div id="logo"><a href="http://lalande.lprsc.crabdance.com"><img src="<?php echo $this->getThemePath();?>/img/logo.png" alt="Logo_Polo_360"/></a></div>                            
             </div>            
             <div class="w-8">
                 <?php
