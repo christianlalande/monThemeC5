@@ -1,1 +1,4 @@
 monThemeC5 est un dépot qui comprend l'intégralité des fichiers sources de mon Theme Concrete5 (version CMS)
+03/04/2015 :	 Suppression du code mort de la feuille de stye CSS
+		 AJout du logo cliquable dans le header (redirection vers Home
+	         Ajout des liens vers les pages dans le footer	
